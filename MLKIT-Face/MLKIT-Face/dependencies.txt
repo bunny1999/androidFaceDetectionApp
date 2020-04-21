@@ -1,0 +1,10 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+app
+
+implementation 'com.google.firebase:firebase-ml-vision:17.0.0'
+apply plugin: 'com.google.gms.google-services'
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+module
+
+classpath 'com.google.gms:google-services:4.0.0'
